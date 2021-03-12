@@ -1,0 +1,3 @@
+name : shriyan
+class : grade 1
+school : inglewood
